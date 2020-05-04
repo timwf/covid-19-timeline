@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/timwf/covid-19-timeline/static/css/main.42424843.chunk.css",
+    "main.js": "/timwf/covid-19-timeline/static/js/main.59ae280f.chunk.js",
+    "main.js.map": "/timwf/covid-19-timeline/static/js/main.59ae280f.chunk.js.map",
+    "runtime-main.js": "/timwf/covid-19-timeline/static/js/runtime-main.a5257a92.js",
+    "runtime-main.js.map": "/timwf/covid-19-timeline/static/js/runtime-main.a5257a92.js.map",
+    "static/js/2.b260f4b7.chunk.js": "/timwf/covid-19-timeline/static/js/2.b260f4b7.chunk.js",
+    "static/js/2.b260f4b7.chunk.js.map": "/timwf/covid-19-timeline/static/js/2.b260f4b7.chunk.js.map",
+    "index.html": "/timwf/covid-19-timeline/index.html",
+    "precache-manifest.2de0eb3e6658af1ad9cc9f1271dbe9c8.js": "/timwf/covid-19-timeline/precache-manifest.2de0eb3e6658af1ad9cc9f1271dbe9c8.js",
+    "service-worker.js": "/timwf/covid-19-timeline/service-worker.js",
+    "static/css/main.42424843.chunk.css.map": "/timwf/covid-19-timeline/static/css/main.42424843.chunk.css.map",
+    "static/js/2.b260f4b7.chunk.js.LICENSE.txt": "/timwf/covid-19-timeline/static/js/2.b260f4b7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/timwf/covid-19-timeline/static/media/covid.7f07f970.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5257a92.js",
+    "static/js/2.b260f4b7.chunk.js",
+    "static/css/main.42424843.chunk.css",
+    "static/js/main.59ae280f.chunk.js"
+  ]
+}
